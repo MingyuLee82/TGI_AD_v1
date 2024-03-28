@@ -1,4 +1,4 @@
-# Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation (CVPR2024) <a href="https://arxiv.org/abs/2403.06247v2.pdf"><img src="https://img.shields.io/badge/arXiv-2312.04364-b31b1b.svg" alt="Paper Badge"/></a>
+# Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation (CVPR2024) <a href="https://arxiv.org/abs/2403.06247v2.pdf"><img src="https://img.shields.io/badge/arXiv-2403.06247-b31b1b.svg" alt="Paper Badge"/></a>
 
 
 <p align="center">
