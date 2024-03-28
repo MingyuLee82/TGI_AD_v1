@@ -33,17 +33,17 @@ conda activate anomalib_env
 
 ## Datasets 📖
 
-### [MVTec AD Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+### [[MVTec AD Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)]
 
 MVTec AD dataset is one of the main benchmarks for anomaly detection, and is released under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### [MVTec AD LOCO Dataset](https://www.mvtec.com/company/research/datasets/mvtec-loco)
+### [[MVTec AD LOCO Dataset](https://www.mvtec.com/company/research/datasets/mvtec-loco)]
 
 MVTec AD LOCO dataset is one of the main benchmarks for anomaly detection, and is released under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### [BTAD Dataset](https://avires.dimi.uniud.it/papers/btad/btad.zip)
+### [[BTAD Dataset](https://avires.dimi.uniud.it/papers/btad/btad.zip)]
 
 BTAD dataset is one of the main benchmarks for anomaly detection, and is released under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
