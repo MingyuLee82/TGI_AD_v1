@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="imgs/coopdet3d_architecture_v2.png" width="1000" alt="" class="img-responsive">
+<img src=".png" width="1000" alt="" class="img-responsive">
 </p>
 
 ## Abstract ✨
@@ -56,7 +56,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 
 ## Results 🎯
 
-<img src="assets/figures/banner.jpg" width="800"/>
+<img src=".jpg" width="800"/>
 
 ### One-shot
 
