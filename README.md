@@ -27,7 +27,7 @@ and activated with:
 
 ```
 conda env create -f environment.yaml
-conda activate anomalib_env
+conda activate anomalib_new
 ```
 
 
