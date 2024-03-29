@@ -22,7 +22,7 @@ We propose a text-guided variational image generation method to address the chal
 - PyTorch >= 1.12
 
 
-A suitable [conda](https://conda.io/) environment named `anomalib_env` can be created
+A suitable [conda](https://conda.io/) environment named `anomalib_new` can be created
 and activated with:
 
 ```
