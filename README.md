@@ -56,7 +56,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 
 ## Results 🎯
 
-<img src="img/results.pdf" width="800"/>
+<img src="img/results.png" width="1200"/>
 
 ### One-shot
 
