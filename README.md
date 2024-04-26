@@ -91,6 +91,11 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 
 ## Citation 🔍
 ```
-
+@article{lee2024text,
+  title={Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation},
+  author={Lee, Mingyu and Choi, Jongwon},
+  journal={arXiv preprint arXiv:2403.06247},
+  year={2024}
+}
 ```
 
